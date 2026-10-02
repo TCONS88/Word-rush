@@ -1,0 +1,18 @@
+{
+  "name": "Word Rush",
+  "short_name": "Word Rush",
+  "description": "A game-show word race against a CPU opponent.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#15102e",
+  "theme_color": "#15102e",
+  "lang": "en-AU",
+  "categories": ["games", "word"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
